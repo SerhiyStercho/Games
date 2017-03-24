@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kрестики нолики</string>
+    <string name="exit">Выйти</string>
+    <string name="new_game">Новая игра</string>
+    <string name="tou_r">Турнир</string>
+    <string name="settingg_s">Опции</string>
+    <string name="loading">Загрузка...</string>
+    <string name="end">Игра окончена! Победитель </string>
+    <string name="menu">В меню</string>
+    <string name="again">Заново</string>
+    <string name="nothing">Ничя!!!</string>
+</resources>

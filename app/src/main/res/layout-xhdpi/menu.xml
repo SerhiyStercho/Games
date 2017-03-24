@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.kombo.tictactoe2.Menu">
+
+
+    <TextView
+        android:text="@string/new_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/newgame"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:textSize="60sp"
+        android:textColor="#a1a398" />
+
+    <TextView
+        android:text="@string/tou_r"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tour"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:textSize="60sp"
+        android:textColor="#a1a398" />
+
+    <TextView
+        android:text="@string/settingg_s"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/settings"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:textSize="60sp"
+        android:textColor="#a1a398" />
+
+    <TextView
+        android:text="@string/exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/quit"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:textSize="60sp"
+        android:textColor="#a1a398" />
+</LinearLayout>

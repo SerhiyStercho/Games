@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe2</string>
+    <string name="exit">Exit</string>
+    <string name="new_game">New game</string>
+    <string name="settingg_s">Settings</string>
+    <string name="tou_r">Tournament</string>
+    <string name="loading">Loading...</string>
+    <string name="end">Game over! Winner </string>
+    <string name="menu">Menu</string>
+    <string name="again">Again</string>
+    <string name="nothing">Draw!!!</string>
+</resources>

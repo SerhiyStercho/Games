@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Хрестики нулики</string>
+    <string name="new_game">Нова гра</string>
+    <string name="tou_r">Турнір</string>
+    <string name="settingg_s">Опції</string>
+    <string name="exit">Вийти</string>
+    <string name="loading">Завантаження...</string>
+    <string name="end">Гра закінчена!Преможець</string>
+    <string name="menu">В меню</string>
+    <string name="again">Заново</string>
+    <string name="nothing">Нічия!!!</string>
+</resources>
